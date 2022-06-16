@@ -1,4 +1,11 @@
 package com.company;
+
+/**
+ * @author Esteban Serna Mateu
+ * La clases primo lo que hace es recibir un parametro, por ejmplo 12, y darte hasta ese numero los numeros que son primos incluyendolo a el
+ * como sabemos que 0 y 1 no son primos comenzara desde 2
+ * @version 0.1
+ * */
 public class Primos {
 
     /**
